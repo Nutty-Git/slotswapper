@@ -1,7 +1,6 @@
 "# slotswapper" 
 
-A full-stack web application (React + Node.js + Express + MongoDB) that allows users to create events, mark them as swappable, request swaps, and accept or reject swap requests.  
-This project is built as part of the **ServiceHive SDE Assignment**.
+A full-stack web application (React + Node.js + Express + MongoDB) that allows users to create events, mark them as swappable, request swaps, and accept or reject swap requests. 
 
 ---
 
