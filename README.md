@@ -61,7 +61,7 @@ npm install
 
 Create a file named .env inside /server:
 PORT=5000
-MONGO_URI=mongodb+srv://slotswapper:slotswapper%4001@slotswapper.poforie.mongodb.net/slotswapper?retryWrites=true&w=majority
+MONGO_URI=<your_mongodb_url>
 JWT_SECRET=slotswapper_secret
 
 Start backend:
